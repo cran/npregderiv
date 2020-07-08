@@ -1,0 +1,8 @@
+5f9c8adcda6b23a0d9804453e5700d9b *DESCRIPTION
+e89fa0fa9fc3d38ac260f07799627e9c *NAMESPACE
+d5e69992c4a3f2faf16b1a60e864132e *R/npregderiv.R
+47690028230fb5718da30d3630c3b68d *data/wafer40.rda
+28882686d3ad8811827cec3fac7c22c8 *man/npregderiv-package.Rd
+68b00f30a61fd3f479e99752214a28f9 *man/reg_1derivWL.Rd
+11557721881f5ca56d8cb5537deff599 *man/reg_2derivWL.Rd
+e57f84c15bad47f065a575af8bd27be6 *man/wafer40.Rd
